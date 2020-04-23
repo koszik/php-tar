@@ -1,5 +1,5 @@
 Simple tar implementation for PHP
-=============-===================
+=================================
 
 Design goals
 ------------
