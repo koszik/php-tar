@@ -14,4 +14,4 @@ This implementation supports the following:
 
 It does not support:
   - FIFOs
-  - link targets with a length of 99 or more
+  - link targets with a length of 100 or more
